@@ -1,0 +1,6 @@
+# 默认忽略的文件
+/.idea/
+/cmake-build-debug/
+/cmake-build-minsizerel/
+/cmake-build-release/
+/cmake-build-relwithdebinfo/
