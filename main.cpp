@@ -15,6 +15,14 @@ using namespace std;
 #define KEY_COLON "\\:"
 #define KEY_TILDE "\\~"
 
+/**
+ *
+ * @author keflag(https://github.com/keflag) on github
+ * @version v2.0
+ * @date 2023/10/16 22:40
+ * @param file_path [const string] to get the file input path
+ * @return file content
+ */
 string read_file(const string& file_path) {
     string content;
     try {
