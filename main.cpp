@@ -6,8 +6,8 @@
 using namespace std;
 
 
-#define KEY_GOTO ":跳转:"
-#define KEY_OPTION ":选项:"
+#define KEY_GOTO ":goto:"
+#define KEY_OPTION ":option:"
 #define KEY_SAY "->"
 #define KEY_DIALOGUE "~"
 #define KEY_HORIZONTALLINE "\\-"
